@@ -1,19 +1,9 @@
----
-title: Movie Recommendation
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Streamlit template space
----
+Project Title: Movie Recommendation System
 
-# Welcome to Streamlit!
+Live App: https://huggingface.co/spaces/Aadam118/Movie_Recommendation
 
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
+Frontend:
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+<img width="1113" height="683" alt="Screenshot 2026-08-01 004459" src="https://github.com/user-attachments/assets/f2e82432-f6fb-4135-8efb-0a6eafebeac1" />
+
+
